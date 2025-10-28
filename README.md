@@ -1,7 +1,6 @@
 # 🕒 Time Tracking Dashboard
 
 A responsive **time-tracking dashboard** built with **React, TypeScript, Tailwind CSS**, and **Zustand** for state management.  
-Developed as part of the [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw).
 
 ---
 
@@ -22,21 +21,8 @@ Developed as part of the [Frontend Mentor Challenge](https://www.frontendmentor.
 
 ---
 
-## 🧑‍💻 Installation
-To run the project locally:
-
-```bash
-git clone https://github.com/LindaCharris/time-tracking-dashboard.git
-cd time-tracking-dashboard
-npm install
-npm run dev
-```
-Then open http://localhost:5173 in your browser.
-
 ## 🚀 Deployment
 Live Site URL: https://time-tracking-dashboard-theta-two.vercel.app
-
-GitHub Repository: https://github.com/LindaCharris/time-tracking-dashboard
 
 ## 📄 License
 MIT License
